@@ -1,0 +1,18 @@
+a
+
+    .bË`j  ã                   @   s„   d dl Z d dlmZ d dlmZ ejddZejdd„ ƒZejdd	„ ƒZ	e 
+d
+¡ e  ¡ Zejdd„ ƒZejdd	„ ƒZ	e 
+d
+¡ dS )
+é    N)Úcommands)Úsearchr   )Úcommand_prefixc                   Ã   s   t dƒ d S )NzComplexx' Bot + .py-data works!)Úprint© r   r   ú`C:\Users\huber\Desktop\Bots\Complexx_Bot\bot_starter\discordjs-bot-starter-master\src\discord.pyÚon_ready   s    r   c                 Ã   sn   | j  d¡rjd}t| j ƒ d¡}tdt|ƒƒD ]}|||  }q.t|dddddD ]}| j |¡I d H  qRd S )Nzjust googleÚ ú é   zco.iné   )ÚtldÚnumÚstopÚpause)	ÚcontentÚ
+startswithÚstrÚsplitÚrangeÚlenr   ÚchannelÚsend)ÚmessageÚ
+searchContentÚtextÚiÚjr   r   r   Ú
+on_message
+   s    r   z;ODUzNDY1OTMyNjUwNTEyNDA0.YMVyFg.RY-XuQfB1424Sz9Ob8prLNpkyA4c                   Ã   s   t d t¡ƒ d S )NzWe have logged in as {0.user})r   ÚformatÚclientr   r   r   r   r      s    c                 Ã   s2   | j tjkrd S | j d¡r.| j d¡I d H  d S )Nz$hellozHello!)Úauthorr    Úuserr   r   r   r   )r   r   r   r   r       s    )ÚdiscordÚdiscord.extr   Úgooglesearchr   ÚBotr    Úeventr   r   ÚrunÚClientr   r   r   r   Ú<module>   s   
+
+
+
+
+
+
