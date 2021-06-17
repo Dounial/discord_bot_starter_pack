@@ -8,6 +8,8 @@ Discord Bot Starter Pack is a small but essential Python and JavaScript library 
 
 Simply go to main folder and make sure to read the _WhatToAdjustHere.md and adjust the .env-file. Next just open the src folder and read _HowToUse.md.
 
+Also make sure to type in npm install in main-folder to get all node_modules!
+
 If you want to start slow first run the just_login_test.js-file.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
