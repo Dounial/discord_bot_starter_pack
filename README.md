@@ -2,7 +2,6 @@
 
 Discord Bot Starter Pack is a small but essential Python and JavaScript library for your first own Discord Bot.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ## Usage
 
@@ -12,7 +11,6 @@ Also make sure to cd into main-folder with cmd and then type in npm install in m
 
 If you want to start slow first run the just_login_test.js-file.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change and keep it civil - this is my
